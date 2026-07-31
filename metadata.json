@@ -1,0 +1,7 @@
+{
+  "name": "InfinityAI Support",
+  "description": "24/7 AI Customer Support Assistant for order tracking, policies, and human escalation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
